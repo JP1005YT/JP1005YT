@@ -3,10 +3,9 @@ Me chamo João Pedro Garcia Girotto , natural de Presidente Prudente uma cidade 
 Atualmente cursando o 1ºTermo da  <a href="https://www.cps.sp.gov.br/tipo-curso-etec/ams/">Faculdade de Analise e Desenvolvimento de Sistemas do Centro Paula Souza ,ETEC's e FATEC's</a><br>
 <h2>Entusiasta em JavaScript , amante de Programação Web </h2>
   <div style="display:inline-block">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JP1005YT&show_icons=true&theme-dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP1005YT&layout=compact&langs_count=16&theme_dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JP1005YT&show_icons=true&theme-dark&include_all_commits=true&count_private=true"/>
   <div/>
-  <h2>Algumas Habilidades:</h2>
   <div>
     <h2>Linguagens/Ferramentas domino:</h3>
       <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
