@@ -1,6 +1,6 @@
 <h1> Olá! Sou o João Pedro </h1>
 Me chamo João Pedro Garcia Girotto , natural de Presidente Prudente uma cidade do interior de São Paulo, Brazil<br>
-Atualmente cursando o 1ºTermo da  <a href="https://www.cps.sp.gov.br/tipo-curso-etec/ams/">Faculdade de Analise e Desenvolvimento de Sistemas do Centro Paula Souza ,ETEC's e FATEC's</a><br>
+Atualmente cursando o ultimo ano da  <a href="https://www.cps.sp.gov.br/tipo-curso-etec/ams/">Faculdade de Analise e Desenvolvimento de Sistemas do Centro Paula Souza ,ETEC's e FATEC's</a><br>
 <h2>Entusiasta em JavaScript , amante de Programação Web </h2>
   <div style="display:inline-block">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP1005YT&layout=compact&langs_count=16&theme_dark"/>
