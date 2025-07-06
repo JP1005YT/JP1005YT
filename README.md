@@ -8,33 +8,33 @@ Atualmente cursando o ultimo ano da  <a href="https://www.cps.sp.gov.br/tipo-cur
   <div/>
   <div>
     <h2>Linguagens/Ferramentas domino:</h3>
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <br> Nota:Não Significa que sei tudo mas que tenho afinidade e estudo sobre
     <h2>Linguagens/Ferramentas sei:</h3>
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
       <br> Nota:Já usei / uso mas posso aprender mais
     <h2>Linguagens/Ferramentas que ja pesquisei:</h3>
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-      <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+      <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <br> Nota:Já vi um pouco
   <div/>
   <h2>Contatos</h2>
