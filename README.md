@@ -63,12 +63,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JP1005YT&theme=github_dark" />
 </div>
 
-<!-- Cobrinha das contribuições - FUNCIONAL -->
-<div align="center">
-  <h3>🐍 Cobrinha das Contribuições</h3>
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <!-- Tecnologias com categorias -->
