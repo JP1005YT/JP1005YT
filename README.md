@@ -11,7 +11,7 @@
 <h2 align="center"> Entusiasta em JavaScript e apaixonado por Programação Web</h2>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP1005YT&layout=compact&langs_count=8&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP1005YT&layout=compact&langs_count=3&theme=dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JP1005YT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
