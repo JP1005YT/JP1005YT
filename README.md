@@ -1,22 +1,17 @@
-
-<!-- Banner animado -->
 <div align="center">
   <img width="100%" height="300px" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=João%20Pedro%20Girotto&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Entusiasta%20JavaScript&descAlignY=55&descSize=20" />
 </div>
 
-<!-- Typing animation -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Olá!+Eu+sou+o+João+Pedro+👋;Desenvolvedor+Full+Stack;Entusiasta+em+JavaScript;Estudante+de+ADS;Apaixonado+por+Programação+Web" alt="Typing SVG" />
 </div>
 
-<!-- Profile info com emojis -->
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Localização-Presidente_Prudente,_SP-blue?style=flat-square&labelColor=1e1e1e" />
   <img src="https://img.shields.io/badge/🎓_Formação-Análise_e_Desenvolvimento_de_Sistemas-green?style=flat-square&labelColor=1e1e1e" />
   <img src="https://img.shields.io/badge/🏫_Instituição-Centro_Paula_Souza_(ETEC/FATEC)-orange?style=flat-square&labelColor=1e1e1e" />
 </p>
 
-<!-- Sobre mim -->
 <div align="center">
   <h3>🚀 Sobre mim</h3>
   <p>
@@ -28,7 +23,6 @@
 
 ---
 
-<!-- GitHub Stats com design melhorado -->
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
@@ -36,34 +30,28 @@
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JP1005YT&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<!-- Streak stats -->
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=JP1005YT&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
-<!-- Activity Graph -->
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JP1005YT&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
 </div>
 
-<!-- Estatísticas adicionais -->
 <div align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JP1005YT&theme=github_dark" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JP1005YT&theme=github_dark&utcOffset=8" />
 </div>
 
-<!-- Troféus -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JP1005YT&theme=discord&no-frame=true&row=1&column=6" />
 </div>
 
-<!-- Contribuições em 3D -->
 <div align="center">
   <h3>🎯 Atividade de Contribuições</h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JP1005YT&theme=github_dark" />
 </div>
 
-<!-- Cobrinha das contribuições - FUNCIONAL -->
 <div align="center">
   <h3>🐍 Cobrinha das Contribuições</h3>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
@@ -71,7 +59,6 @@
 
 ---
 
-<!-- Tecnologias com categorias -->
 <h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
 
 <details>
@@ -116,7 +103,6 @@
 </div>
 </details>
 
-<!-- Stack atual -->
 <div align="center">
   <h3>🚀 Stack Atual</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mysql,vscode&theme=dark" />
@@ -124,17 +110,15 @@
 
 ---
 
-<!-- Projetos destacados -->
 <h2 align="center">🎯 Projetos em Destaque</h2>
 
 <div align="center">
   
-  <!-- Cards de projetos - você pode personalizar com seus repositórios reais -->
-  <a href="https://github.com/JP1005YT" target="_blank">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JP1005YT&repo=dinamic-cat&theme=dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
+  <a href="https://github.com/JP1005YT/Threejs-GSAP-study" target="_blank">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JP1005YT&repo=Threejs-GSAP-study&theme=dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/JP1005YT" target="_blank">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JP1005YT&repo=ecommerce-nest&theme=dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
+  <a href="https://github.com/JP1005YT/example-electron-typescript-distributable" target="_blank">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JP1005YT&repo=example-electron-typescript-distributable&theme=dark&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
   </a>
 
 </div>
